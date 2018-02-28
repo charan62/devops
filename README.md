@@ -1,2 +1,0 @@
-# devops
-Task on GitHub
